@@ -1,9 +1,9 @@
-# 🧼 ETL Pipeline Demo – Sales Data Cleanup & Transformation
+# ETL Pipeline Demo – Sales Data Cleanup & Transformation
 
-## 🔍 Overview
+## Overview
 This project demonstrates a simple yet realistic ETL (Extract, Transform, Load) pipeline using **Python** and **Pandas**. It simulates a scenario where raw retail sales data is cleaned and transformed into a structured format for analysis.
 
-## 🛠️ Features
+## Features
 - **Extract**: Reads raw sales data from CSV
 - **Transform**:
   - Drops duplicates and nulls
@@ -12,11 +12,11 @@ This project demonstrates a simple yet realistic ETL (Extract, Transform, Load) 
   - Converts data types
 - **Load**: Saves the cleaned data to a new CSV file
 
-## 🧰 Tech Stack
+## Tech Stack
 - Python 3.x
 - Pandas
 
-## 📁 Project Structure
+## Project Structure
 ```
 etl-pipeline-demo/
 ├── data/
@@ -27,7 +27,7 @@ etl-pipeline-demo/
 └── requirements.txt
 ```
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/etl-pipeline-demo.git
@@ -45,6 +45,3 @@ etl-pipeline-demo/
    ```
 
 4. The cleaned data will be saved to `data/cleaned_data.csv`
-
-## ✍️ Author
-Aung Hein
